@@ -9,6 +9,8 @@ russian_original.csv.gz
 
 Source: major book e-shops
 
+------
+
 Multilanguage:
 
 books.json.gz (filtered, TBD)
