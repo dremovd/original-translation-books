@@ -7,7 +7,7 @@ For Russian language:
 
 25393 books currently
 
-Source: major book e-shops
+Source: major book e-shops, goodreads
 
 ------
 
