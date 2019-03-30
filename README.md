@@ -13,7 +13,7 @@ Source: major book e-shops, goodreads
 
 Multilanguage:
 
-[books.json.gz, filtered](https://github.com/dremovd/original-translation-books/raw/master/books.json.gz)
+[books.json.gz, 47110 books, filtered](https://github.com/dremovd/original-translation-books/raw/master/books.json.gz)
 
 books.csv.gz (parsed, TBD)
 
