@@ -13,9 +13,9 @@ Source: major book e-shops, goodreads
 
 Multilanguage:
 
-[books.json.gz, 47110 books, filtered](https://github.com/dremovd/original-translation-books/raw/master/books.json.gz)
-[books.csv.gz, 47110 books info, parsed](https://github.com/dremovd/original-translation-books/raw/master/books.csv.gz)
-[book_languages.csv.gz, books languages, same id with books.csv.gz](https://github.com/dremovd/original-translation-books/raw/master/book_languages.csv.gz)
+- [books.json.gz, 47110 books, filtered](https://github.com/dremovd/original-translation-books/raw/master/books.json.gz)
+- [books.csv.gz, 47110 books info, parsed](https://github.com/dremovd/original-translation-books/raw/master/books.csv.gz)
+- [book_languages.csv.gz, books languages, same id with books.csv.gz](https://github.com/dremovd/original-translation-books/raw/master/book_languages.csv.gz)
 
 Top languages book count:
 - en: 23388
